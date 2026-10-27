@@ -1,9 +1,26 @@
-# Operating System Basics
+<h3>
+operating system: intro 
+</h3>
 
-An **operating system (OS)** manages a computer's hardware and software resources. It acts as an interface between users, applications, and hardware.
+<b>Operating System (OS)</b>
 
-An OS manages CPU time, memory, storage, devices, files, folders, and security features. Common operating systems include Windows, Linux, macOS, and Android.
+is software that manages a computer's hardware and software resources  It allows users to run applications, manage files, and interact with the computer easily
 
-**Summary:** an OS coordinates hardware and software so applications can run and users can interact with a computer.
+### <b>Operating Systems Introduction </b>
 
-[Back to Operating Systems and CLI](README.md)
+- An <b>Operating System (OS)</b> is software that acts as a bridge between the user and the computer hardware.
+- It manages computer resources such as <b>CPU, RAM, Storage, and Devices</b>.
+- The OS allows users to run applications, manage files, and use the computer efficiently.
+- It allocates CPU time and memory to different processes (programs).
+- The OS organizes files and folders and provides security features.
+- Common operating systems include:
+  - Windows
+  - Linux
+  - macOS
+  - Android
+
+
+summary 
+
+
+<b>An Operating System is like a manager that controls hardware and software, allowing the computer to run smoothly.</b>
