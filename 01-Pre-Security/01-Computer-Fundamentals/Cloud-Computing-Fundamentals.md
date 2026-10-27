@@ -1,9 +1,27 @@
-# Cloud Computing Fundamentals
+## What is cloud computing fundamentals?
 
-Cloud computing means accessing computing resources—such as servers, storage, databases, and software—over a network, usually the internet.
+Cloud computing fundamentals using someone else computers and storage over the internet of using your own computer.
 
-Examples include Google Drive for file storage, Gmail for email, and Netflix for streaming. These services rely on infrastructure managed by the provider rather than only on your personal computer.
 
-**Summary:** cloud computing provides on-demand access to computing resources without requiring users to own and manage all underlying hardware.
+example 
 
-[Back to Computer Fundamentals](README.md)
+
+
+when i use 
+
+
+<ul>
+<li>
+Google drive to store files 
+</li>
+<li>
+Gmail to send mails 
+</li>
+<li>
+Netflix to Watch movies 
+</li>
+</ul>
+
+your data and applications are running on powerful computers (server) owned by those companies, not on your personal computer.
+
+ </p>
