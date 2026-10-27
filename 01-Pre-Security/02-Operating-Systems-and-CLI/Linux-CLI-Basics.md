@@ -1,28 +1,319 @@
-# Linux CLI Basics
+## What is CLI?
 
-## What is the CLI?
-A **command-line interface (CLI)** lets you interact with a computer by typing commands instead of clicking through menus. A terminal is an application where you enter commands into a shell.
+CLI(Command line interface) is a way to interact with a computer by typing commands instead of clicking buttons.
 
-## Navigation commands
-| Command | Purpose |
-|---|---|
-| `pwd` | Prints the current working directory. |
-| `ls` | Lists files and directories. |
-| `cd Documents` | Changes into the Documents directory if it exists there. |
-| `cd ..` | Moves up one directory. |
-| `cd ~` | Moves to the current user's home directory. |
 
-## Finding and reading files
-- `find / -name "file.txt"` searches from the filesystem root for a matching filename. Permission errors may appear.
-- `cat file.txt` displays a file's contents. Read only files you are authorized to access.
+example 
 
-## System information
-| Command | Purpose |
-|---|---|
-| `whoami` | Shows the current user. |
-| `uname -a` | Displays kernel and system information. |
-| `df -h` | Shows disk-space usage in human-readable units. |
 
-**Quick revision:** pwd = current location; ls = list files; cd = change directory; find = search; cat = read; whoami = current user; uname -a = system details; df -h = disk usage.
 
-[Back to Operating Systems and CLI](README.md)
+instead of 
+
+
+
+opening folder with a mouse 
+
+
+
+just type 
+
+
+
+cd documents 
+
+
+Why CLI is important?
+
+<ul>
+<li>
+most Linux servers use CLI 
+</li>
+<li>
+Cybersecurity tools often run in the terminal 
+</li>
+<li>
+faster then clicking through menu 
+</li>
+<li>
+helps in automation and scripting 
+</li>
+</ul>
+
+## What is Terminal?
+
+
+A Terminal is the application where you type Linux Commands 
+
+
+## Important Navigation Commands
+
+### pwd (print working directory )
+
+example
+
+/home/shahid
+
+
+it means i am currently in shahid folder 
+
+
+### ls(List Directory)
+
+
+list Files and Folders 
+
+
+
+shows what is inside current directory 
+
+
+
+example 
+
+
+
+documents <br />downloads <br />pictures 
+
+
+### cd (Change Directory)
+
+
+move from one folder to another 
+
+
+cd documents
+
+
+move back one folder 
+
+
+cd ..
+
+
+go to home directory  
+
+
+cd \~
+
+<h2>
+Finding files 
+</h2>
+
+### Find
+
+
+Used to search for files and directories 
+
+
+find / -name file.txt
+
+find=search command
+
+
+/= search everywhere 
+
+
+
+-name = search by filename 
+
+
+
+example 
+
+
+
+find / -name mission\_brief.txt 
+
+
+<h2>
+Reading Files 
+</h2>
+
+<h3>
+cat 
+</h3>
+
+displays file contents.
+
+cat file.txt
+
+
+example 
+
+
+cat mission\_brief.txt
+
+
+output 
+
+
+
+welcome to your first mission 
+
+
+## System information commands
+
+### whoami
+
+shows the current logged-in user.
+
+
+whoami 
+
+
+
+example 
+
+
+
+meaning 
+
+
+
+shahid 
+
+
+i am logged in as a user”shahid”
+
+### uname
+
+
+show Linux system information 
+
+
+uname -a
+
+
+display 
+
+
+<ul>
+<li>
+kernel version 
+</li>
+<li>
+Architecture 
+</li>
+<li>
+System details 
+</li>
+</ul>
+
+<h3>
+df -h 
+</h3>
+
+
+shows disk space usage 
+
+
+
+df -h 
+
+
+
+df = disk free 
+
+
+-h = human readable (GB,MB)
+
+<h2>
+most important commands summary 
+</h2>
+
+<table>
+<colgroup>
+<col width="174" />
+<col width="174" />
+</colgroup>
+<tr>
+<td>
+command 
+</td>
+<td>
+purpose 
+</td>
+</tr>
+<tr>
+<td>
+pwd 
+</td>
+<td>
+show current location 
+</td>
+</tr>
+<tr>
+<td>
+ls
+</td>
+<td>
+list files/folder 
+</td>
+</tr>
+<tr>
+<td>
+cd 
+</td>
+<td>
+change directory 
+</td>
+</tr>
+<tr>
+<td>
+cd ..
+</td>
+<td>
+go back one folder 
+</td>
+</tr>
+<tr>
+<td>
+cd \~
+</td>
+<td>
+go to home directory 
+</td>
+</tr>
+<tr>
+<td>
+find 
+</td>
+<td>
+search files 
+</td>
+</tr>
+<tr>
+<td>
+cat 
+</td>
+<td>
+read files contents 
+</td>
+</tr>
+<tr>
+<td>
+whoami 
+</td>
+<td>
+show current user 
+</td>
+</tr>
+<tr>
+<td>
+uname -a 
+</td>
+<td>
+shows system information
+</td>
+</tr>
+<tr>
+<td>
+df -h 
+</td>
+<td>
+show disk usage 
+</td>
+</tr>
+</table>
+
+---
