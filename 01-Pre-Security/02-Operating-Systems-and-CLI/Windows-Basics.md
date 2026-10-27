@@ -1,15 +1,15 @@
-# Windows Basics
+- <b>Windows</b> is an Operating System that manages the computer and provides a GUI (Graphical User Interface).
+- <b>Desktop</b> is the main screen where icons and shortcuts are displayed.
+- <b>Start Menu</b> is used to access applications, settings, and files.
+- <b>Taskbar</b> shows running applications and important tools.
+- <b>File Explorer</b> is used to manage files and folders.
+- <b>Task Manager</b> is used to view running processes and monitor CPU and RAM usage.
+- <b>Control Panel</b> and <b>Settings</b> are used to change system configurations.
+- <b>Windows Defender</b> protects the system from malware and viruses.
+- <b>Windows Firewall</b> blocks unauthorized network access.
+- <b>Windows Update</b> installs the latest features and security patches.
 
-Windows is an operating system with a graphical user interface (GUI).
 
-- **Desktop:** main workspace with icons and shortcuts.
-- **Start menu:** access to apps, settings, and files.
-- **Taskbar:** shows running and pinned apps.
-- **File Explorer:** manages files and folders.
-- **Task Manager:** displays processes and resource usage.
-- **Settings / Control Panel:** configure system options.
-- **Microsoft Defender:** built-in malware protection.
-- **Windows Firewall:** helps block unauthorized network connections.
-- **Windows Update:** installs updates and security patches.
+Summary
 
-[Back to Operating Systems and CLI](README.md)
+<b>Windows is an Operating System that manages files, applications, hardware, and security while providing a graphical interface for users to interact with the computer.</b>
