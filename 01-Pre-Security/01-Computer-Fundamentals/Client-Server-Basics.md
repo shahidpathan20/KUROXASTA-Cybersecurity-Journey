@@ -1,15 +1,31 @@
-# Client–Server Basics
+<p />
 
-Client–server architecture is a model where a client requests a service and a server provides it.
+### Client
 
-- **Client:** requests a resource, such as a browser.
-- **Server:** responds with a service or resource.
-- **DNS:** translates domain names into records such as IP addresses.
-- **IP address:** identifies a network interface for communication.
-- **Port:** identifies a service endpoint on a device.
-- **Protocol:** rules used for communication.
-- **Network:** connected devices that exchange data.
+Requests services.
 
-Example: a browser requests a webpage from a web server, and the server returns data for the browser to display.
+### Server
 
-[Back to Computer Fundamentals](README.md)
+Provides services.
+
+### DNS
+
+Converts domain names to IP addresses.
+
+### IP Address
+
+Identifies a device.
+
+### Port
+
+Identifies a specific service.
+
+### Protocol
+
+Rules for communication.
+
+### Network
+
+Connected devices communicating together.
+
+<image source="notion-file-block://37d21778-a700-8065-806a-cb1ec9cb095d/9a69f2f9-3460-4890-8c4c-8c708244a9db?space_id=18a21778-a700-8125-9c75-0003ef64b7a1&name=image.png" />
