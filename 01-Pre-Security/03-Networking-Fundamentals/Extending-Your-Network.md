@@ -1,12 +1,45 @@
-# Extending Your Network
+<h2>
+Introduction to port forwarding 
+</h2>
 
-## Port forwarding
-Port forwarding is a router configuration that directs incoming traffic arriving at a public IP address and port to a selected device and port inside a private network. Exposing a service to the internet introduces risk, so only necessary ports should be opened and the service should be secured.
 
-## Firewalls
-A **firewall** monitors and controls network traffic according to rules.
+what is port forwarding 
 
-- **Stateless firewall:** evaluates packets individually against rules.
-- **Stateful firewall:** tracks connection state and uses context about ongoing connections when making decisions.
 
-[Back to Networking Fundamentals](README.md)
+
+port forwarding allows external devises to access services inside a private network 
+
+
+<ul>
+<li>
+normally internal services (like web server) are only accessible within LAN 
+</li>
+<li>
+but with port forwarding services become accessible from the internet via public  IP
+</li>
+</ul>
+
+
+Router redirects incoming traffic from a public IP/port- private IP/Port 
+
+
+## Firewalls 101
+
+
+what is firewalls 
+
+
+A firewalls is a security that monitors and controls incoming/outgoing networks traffic based on rules
+
+<h4>
+stateless 
+</h4>
+
+stateless inspects individual packets
+
+<h4>
+stateful 
+</h4>
+
+
+stateful inspect entire connection
