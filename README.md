@@ -8,6 +8,8 @@ Welcome to my cybersecurity learning repository. I use this space to document fo
 - 03 — SOC Level 1 (planned)
 - 04 — Projects (planned)
 
+These notes are based on my personal study notes and organized for easier reading and revision. Some embedded diagrams may not transfer directly from Notion, so key concepts are described in text where possible.
+
 ## Goal
 Build a strong cybersecurity foundation, keep learning consistently, and share useful notes with the community.
 
