@@ -4,7 +4,7 @@ Welcome to my cybersecurity learning repository. I use this space to document fo
 
 ## Learning Roadmap
 - [01 — Pre-Security](01-Pre-Security/README.md) — computer fundamentals, operating systems, networking, and web basics.
-- 02 — Cybersecurity 101 (planned)
+- [02 — Cybersecurity 101](02-Cybersecurity-101/README.md) — Linux, networking, secure protocols, Wireshark, and tcpdump notes.
 - 03 — SOC Level 1 (planned)
 - 04 — Projects (planned)
 
